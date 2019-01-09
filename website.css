@@ -1,0 +1,33 @@
+.fab {
+    color :black;
+  }
+
+.icons a {
+    display: inline;
+    position: fixed;
+    text-align: center;
+    top: 363px;
+    vertical-align: middle;
+    z-index: 1000;
+    height: 36px;
+    width: 36px;
+    text-decoration: none;
+}
+
+.fab, .fa-instagram, .fa-facebook-f, .fa-pinteres-p, .fa-twitter {
+     padding-right: 30px;
+}
+  
+
+p {
+    width: 400px;
+    height: 500px;
+} 
+
+.contact_us {
+    padding-left: 6rem;
+}
+
+.carousel-caption{
+    font-size: 30px;
+}
